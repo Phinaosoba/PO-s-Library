@@ -1,0 +1,493 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ba",
+				"background-image"
+			],
+			[
+				"s",
+				"style"
+			],
+			[
+				"p",
+				"php"
+			],
+			[
+				"st",
+				"style"
+			],
+			[
+				"h",
+				"h1"
+			],
+			[
+				"ti",
+				"title"
+			],
+			[
+				"l",
+				"link"
+			],
+			[
+				"dim",
+				"dimgrey"
+			],
+			[
+				"tra",
+				"transition"
+			],
+			[
+				"poli",
+				"politics"
+			],
+			[
+				"pol",
+				"politics"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"t",
+				"text-decoration-style"
+			],
+			[
+				"bo",
+				"border-spacing"
+			],
+			[
+				"na",
+				"navy"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"b",
+				"border"
+			],
+			[
+				"w",
+				"wrap-reverse"
+			],
+			[
+				"flex",
+				"flex-shrink"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"box",
+				"box-sizing"
+			],
+			[
+				"cl",
+				"clear"
+			],
+			[
+				"sm",
+				"whitesmoke"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"g",
+				"lightblue"
+			],
+			[
+				"dec",
+				"text-decoration-style"
+			],
+			[
+				"v",
+				"visible"
+			],
+			[
+				"too",
+				"tooltiptext"
+			],
+			[
+				"text-",
+				"text-align"
+			],
+			[
+				"border",
+				"border-spacing"
+			],
+			[
+				"border-",
+				"border-style"
+			],
+			[
+				"m",
+				"margin-bottom"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"i",
+				"img"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"dr",
+				"dropdown-content"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"wh",
+				"white"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"border-rihg",
+				"border-right"
+			],
+			[
+				"border-c",
+				"border-spacing"
+			],
+			[
+				"f",
+				"flex"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"te",
+				"text-orientation"
+			],
+			[
+				"border-w",
+				"border-right-width"
+			],
+			[
+				"pa",
+				"padding-left"
+			],
+			[
+				"d",
+				"direction"
+			],
+			[
+				"wr",
+				"wrap-reverse"
+			],
+			[
+				"gr",
+				"dimgrey"
+			],
+			[
+				"c",
+				"background-color"
+			],
+			[
+				"fo",
+				"font-style"
+			],
+			[
+				"white",
+				"floralwhite"
+			],
+			[
+				"me",
+				"meta"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"po",
+				"list-style-position"
+			],
+			[
+				"n",
+				"blink"
+			],
+			[
+				"u",
+				"line-through"
+			],
+			[
+				"dark",
+				"darkmagenta"
+			],
+			[
+				"entry",
+				"entry-header"
+			],
+			[
+				"red",
+				"indianred"
+			],
+			[
+				"rg",
+				"rgba()"
+			],
+			[
+				"j",
+				"justify-all"
+			],
+			[
+				"a",
+				"a"
+			],
+			[
+				"li",
+				"li"
+			],
+			[
+				"bla",
+				"blanchedalmond"
+			],
+			[
+				"no",
+				"snow"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"htt",
+				"https"
+			],
+			[
+				"fonts",
+				"font-style"
+			],
+			[
+				"font",
+				"font-display"
+			],
+			[
+				"rgb",
+				"rgb()"
+			],
+			[
+				"blue",
+				"royalblue"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"r",
+				"Rename File"
+			],
+			[
+				"re",
+				"Rename File"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Get Elements"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 130.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/OSOBA ANITA/AppData/Roaming/Sublime Text/Packages/User/Chrome.sublime-build",
+		"/C/Users/OSOBA ANITA/Desktop/Javascript/ine",
+		"/C/Users/OSOBA ANITA/colour flipper.js",
+		"/C/Users/OSOBA ANITA/colour flipper.html",
+		"/C/Users/OSOBA ANITA/Time assignment.html",
+		"/C/Users/OSOBA ANITA/time.html",
+		"/C/Users/OSOBA ANITA/dev.html",
+		"/C/Users/OSOBA ANITA/title.html",
+		"/C/Users/OSOBA ANITA/web dev.html",
+		"/C/Users/OSOBA ANITA/Desktop/Sandbox/index.html",
+		"/C/Users/OSOBA ANITA/Downloads/fontawesome-free-6.0.0-web.zip",
+		"/C/Users/OSOBA ANITA/untitled",
+		"/C/Users/OSOBA ANITA/AppData/Roaming/Sublime Text/Packages/ActionScript.sublime-package",
+		"/C/Users/OSOBA ANITA/AppData/Roaming/Sublime Text/Packages/HTML.sublime-package",
+		"/C/Users/OSOBA ANITA/html file"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "content.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
