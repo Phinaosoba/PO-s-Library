@@ -11,11 +11,11 @@
 </head>
 <body>
 <div class="header">
-  <button onclick="document.getElementById('id01').style.display='block'" style="width:auto;">Login</button>
+  <button onclick="document.getElementById('id01').style.display='block'" style="width:auto;">Upload a Book</button>
 
 <div id="id01" class="modal">
   
-  <form class="modal-content animate" action="/action_page.php" method="post">
+  <form class="modal-content animate" action="#Home" method="post">
 
     <div class="container">
       <label for="uname"><b>Username</b></label>
@@ -23,7 +23,7 @@
 
       <label for="psw"><b>Password</b></label>
       <input type="password" placeholder="Enter Password" name="psw" required>
-            <button type="submit">Login</button>
+            <button type="submit">Log In</button>
       <label>
         <input type="checkbox" checked="checked" name="remember"> Remember me
       </label>
@@ -35,7 +35,6 @@
     </div>
   </form>
   </div>
-
   <script>
 // Get the modal
 var modal = document.getElementById('id01');
@@ -47,21 +46,22 @@ window.onclick = function(event) {
     }
 }
 </script>
-
-  <a href="https">Contact Us</a>
+  <a href="https://openlibrary.org/about">About Us</a>
+  <a href="https://blog.openlibrary.org/">Lastest Blog Posts</a>
   <a href="https://openlibrary.org/search">Read More</a>
+  <a href="https://openlibrary.org/subjects"><i class="bi bi-search"></i></a>
 </div>
 <button class="tablink" onclick="openPage('Home', this, '')">Home</button>
 <button class="tablink" onclick="openPage('Books', this, '')" id="defaultOpen">Books</button>
 <button class="tablink" onclick="openPage('Contact', this, '')">Contact</button>
 <!--  -->
 <div id="Home" class="tabcontent">
-    <h3>Home</h3>
-  <p>Home is where the heart is..</p>
+    <h3>PO's Library</h3>
+  <p><b>In this library,you can read a variety of books,<br>from romance,thrillers,art books,fantasies <br>and old classics novels to textbooks and even books for kids. </b></p>
 </div>
 
 <div id="Books" class="tabcontent">
-  <h3> Feel free to browse through our different viarities</h3>
+  <h3> Feel free to browse through our different varieties</h3>
   <div class="category">
   <h3>Classic Books</h3>
   <p>Click on any book to start</p>
@@ -74,8 +74,17 @@ window.onclick = function(event) {
 </div>
 </div>
 <div id="Contact" class="tabcontent">
-  <h3>Contact</h3>
+  <h3>Contact Us</h3>
   <p>Get in touch, or swing by for a cup of coffee.</p>
+  <hl>
+  <p>PO's Library is an initiative of the Internet Archive, a 501(c)(3)<br> non-profit, building a digital library of Internet sites and <br>other cultural artifacts in digital form.
+</p>
+<br>
+<br>
+<p><b>You can contact us or report a problem using these forums<br><i class="bi bi-envelope-fill"></i><br>
+  <a href="https://twitter.com/OpenLibrary"><i class="bi bi-twitter"></i></a></b></p>
+
+
 </div>
 <script>
 function openPage(pageName, elmnt, color) {
@@ -103,16 +112,18 @@ document.getElementById("defaultOpen").click();
 </script>
 
 <div id="footer">
-<p><b>We also have various categories,like:</b></p>
+<a href="#"><b>We also have various categories,like:</b></a>
  <a href="">Best Books of the Month </a>
  <a href="">Textbooks</a>
- <a href="">For Kids</a><br>
+ <a href="">For Kids.</a><br>
+ <br>
   <a href="https://openlibrary.org/search">Books</a>
   <a href="https://openlibrary.org/search/authors">Authors</a>
   <a href="https://openlibrary.org/subjects">Subjects</a>
   <a href="https://openlibrary.org/contact?path=%2F">Report a Problem</a>
   <a href="http://www.facebook.com/time"><i class="bi bi-facebook"></i></a>
-  <a href="http://www.twitter.com/time/"><i class="bi bi-twitter"></i></a>
+  <a href="http://www.twitter.com/time/"><i class="bi bi-twitter"></i></a><br>
+  <a href="#"> &copy; PO's Library 2022,Nig.All Rights Reserved.</a>
 
 </div>
 
